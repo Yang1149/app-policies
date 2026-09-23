@@ -1,3 +1,6 @@
+---
+---
+
 # Privacy Policy for Glica
 
 _Last updated: September 23, 2026_
